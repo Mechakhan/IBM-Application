@@ -1,6 +1,6 @@
 applications:
 - name: IBM-Application
-  random-route: true
+  random-route: false
   memory: 128M
   buildpack: sdk-for-nodejs
   services:
